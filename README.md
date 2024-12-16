@@ -1,4 +1,4 @@
-# COMP307 Assignment 4
+# COMP307 Assignment 4 - Scheduling and Planning
 
 - Part 1 Q1 (10/10)
 - Part 1 Q2 (10/10)
